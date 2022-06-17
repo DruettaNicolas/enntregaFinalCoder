@@ -1,0 +1,9 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box; }
+
+.bio__p {
+  background-color: aqua; }
+  .bio__p .h2 {
+    background-color: aqua; }
