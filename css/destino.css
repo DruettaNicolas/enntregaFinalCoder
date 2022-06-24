@@ -3,7 +3,23 @@
   padding: 0%;
   box-sizing: border-box; }
 
-.bio__p {
-  background-color: aqua; }
-  .bio__p .h2 {
-    background-color: aqua; }
+.contenido {
+  color: white; }
+
+.div__cursos .info2 .info1, .div__cursos .info2 .info3 {
+  background-color: azure;
+  height: 5rem;
+  display: flex;
+  margin: 1 rem;
+  padding: 1rem;
+  font-size: xx-large; }
+
+.div__cursos .info3 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+  .div__cursos .info3 .info1, .div__cursos .info3 .info3 {
+    background-color: azure;
+    height: 5rem;
+    display: flex;
+    margin: 1 rem;
+    padding: 1rem;
+    font-size: xx-large; }

@@ -1,5 +1,7 @@
+
 .bio__p{
-    background-color:aqua;
-.h2{background-color: aqua;
+    color: map-get($colores,aqua);
+
+.h2{color: map-get($colores,aqua);
 }
 }
