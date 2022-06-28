@@ -6,20 +6,7 @@
 .contenido {
   color: white; }
 
-.div__cursos .info2 .info1, .div__cursos .info2 .info3 {
-  background-color: azure;
-  height: 5rem;
-  display: flex;
-  margin: 1 rem;
-  padding: 1rem;
-  font-size: xx-large; }
-
-.div__cursos .info3 {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
-  .div__cursos .info3 .info1, .div__cursos .info3 .info3 {
-    background-color: azure;
-    height: 5rem;
-    display: flex;
-    margin: 1 rem;
-    padding: 1rem;
-    font-size: xx-large; }
+.link {
+  display: flex; }
+  .link .light {
+    justify-content: start; }

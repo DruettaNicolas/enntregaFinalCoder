@@ -1,20 +1,6 @@
-.div__cursos{
-    @mixin cursos {.info1 {
-    background-color:azure;
-    height: 5rem;
+.link{
     display: flex;
-    margin: 1 rem;
-    padding: 1rem;
-    font-size: xx-large;}  
+    .light{
+        justify-content: start;
     }
-    .info2{@include cursos
-
-    }
-    .info3{
-        @include cursos
-        @extend .info1;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        
-    }
-
 }
